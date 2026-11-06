@@ -27,7 +27,7 @@ und tritt damit beim **Roboter-Sumo** gegen die anderen an. 🏆
 | 3 | Fahrschule | Motoren ansteuern, Fahrfiguren, eigene Steuerung |
 | 4 | Teleoperation | Gamepad, Kamera, Fotos |
 | 5 | Collision Avoidance | Daten sammeln, KI trainieren, autonom fahren |
-| 6 | Sumo-Addon | eigenes Addon in Tinkercad designen und drucken |
+| 6 | Sumo-Addon | eigenes Addon in FreeCAF designen und drucken |
 | 7 | Roboter-Sumo | das große Finale |
 
 ---
