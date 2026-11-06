@@ -1,4 +1,10 @@
-# 🤖 JetBot Nano AG
+<h1 align="center">🤖 JetBot Nano AG</h1>
+
+<p align="center">
+  <img src="docs/images/jetbot_banner.jpeg" alt="JetBot Nano" width="500">
+</p>
+
+<h3 align="center">Hochschule Esslingen · Robotik-AG</h3>
 
 Willkommen in der JetBot AG der Hochschule Esslingen!
 
