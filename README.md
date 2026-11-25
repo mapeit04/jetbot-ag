@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://de.linkedin.com/in/marc-adrian-pentia-98a07a389"><img src="https://img.shields.io/badge/linkedin-Marc%20Adrian%20Pentia-0A66C2?style=flat" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@marcpentia"><img src="https://img.shields.io/badge/youtube-%40marcpentia-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <img src="https://img.shields.io/badge/hochschule-HS%20Esslingen-00C9A7?style=flat" alt="HS Esslingen">
+  <a href="https://www.hs-esslingen.de/"><img src="https://img.shields.io/badge/hochschule-HS%20Esslingen-00C9A7?style=flat" alt="HS Esslingen"></a>
   <a href="https://github.com/mapeit04/jetbot-ag/stargazers"><img src="https://img.shields.io/github/stars/mapeit04/jetbot-ag?style=flat&label=stars&color=00C9A7" alt="Stars"></a>
 </p>
 
