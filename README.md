@@ -1,7 +1,7 @@
 <h1 align="center">🤖 JetBot Nano AG</h1>
 
 <p align="center">
-  <img src="docs/images/jetbot_banner.jpeg" alt="JetBot Nano" width="500">
+  <img src="docs/images/jetbot-ag-foto-und-cad.jpg" alt="JetBot AG – Foto und FreeCAD-Modell" width="100%">
 </p>
 
 <h3 align="center">Hochschule Esslingen · Robotik-AG</h3>
