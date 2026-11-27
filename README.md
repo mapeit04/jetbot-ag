@@ -137,6 +137,7 @@ Im Ordner [`basis-modell/`](basis-modell/) liegt das komplette 3D-Modell des Jet
 - **Ansehen:** Auf [`JetBot_Nano.stl`](basis-modell/JetBot_Nano.stl) klicken. GitHub zeigt das Modell in 3D an, ihr könnt es mit der Maus drehen und zoomen.
 - **Eigenes Addon konstruieren:** [`JetBo_Nano_Roboter.FCStd`](basis-modell/JetBo_Nano_Roboter.FCStd) in FreeCAD öffnen und euer Teil direkt an der Baugruppe konstruieren, damit es passt.
 - **Fertige Addons:** In [`addons/`](addons/) findet ihr druckfertige Teile als Vorlage.
+  Zum Beispiel die Sumo-Rüstung [`addons/manta/`](addons/manta/) mit Schaufel, Seitenschürzen mit Ballastkammern und Heckkeil.
 
 ---
 
