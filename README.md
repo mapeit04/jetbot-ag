@@ -83,6 +83,7 @@ und tritt damit beim **Roboter-Sumo** gegen die anderen an. 🏆
 jetbot-ag/
 ├── addons/
 │   ├── kamerahalterung/        kamerahalterung.stl
+│   ├── manta/                  Sumo-Rüstung V3 (FreeCAD + STL)
 │   └── rammbock/               rammbock.stl
 ├── assets/                     Logos (Dark/Light Mode)
 ├── basis-modell/
